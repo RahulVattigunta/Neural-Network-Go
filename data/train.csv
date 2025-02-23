@@ -1,0 +1,4 @@
+sepal_length,sepal_width,petal_length,petal_width,setosa,virginica,versicolor
+0.083,0.667,0.0,0.042,1,0,0
+0.722,0.458,0.695,0.917,0,1,0
+0.667,0.417,0.678,0.667,0,0,1
